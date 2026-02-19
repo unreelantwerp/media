@@ -1,0 +1,43 @@
+# Unreel
+
+> Unreel is een creatief videoproductiebedrijf uit Antwerpen, België. We maken corporate video's, social media videocontent, video testimonials, branded content en videocampagnes voor merken en bedrijven. Van concept tot oplevering — flexibel, gedurfd en resultaatgericht.
+
+## Bedrijfsinfo
+
+- Bedrijfsnaam: Unreel (Aimdigital BV)
+- Locatie: Michel de Braeystraat 52, 2000 Antwerpen, België
+- KBO: 0697.860.362
+- Contact: info@unreel.be | +32 (0) 483 68 78 01
+- Website: https://www.unreel.be
+
+## Diensten
+
+- [Corporate Videoproductie](https://www.unreel.be/corporate-videoproductie): Professionele bedrijfsfilms, brand films, employer branding video's en video cases voor bedrijven en organisaties.
+- [Social Media Video](https://www.unreel.be/social-media-video): Platform-native videocontent voor Instagram, TikTok, LinkedIn en YouTube. Van reels tot long-form content.
+- [Video Testimonials](https://www.unreel.be/video-testimonials): Authentieke en dynamische klantverhalen die vertrouwen opwekken en conversie verhogen.
+- [AI Videoproductie](https://www.unreel.be/ai-videoproductie): AI-geïntegreerde videoproductie — van VFX en achtergrondvervanging tot AI product content en video editing.
+- [Video Advertising](https://www.unreel.be/corporate-videoproductie): Creatieve videocampagnes, van kleine digitale campagnes tot cinematische tv spots.
+
+## Pagina's
+
+- [Home](https://www.unreel.be/): Hoofdpagina met overzicht van diensten, aanpak en manifesto.
+- [Over Ons](https://www.unreel.be/company): Informatie over het team, de aanpak en werkwijze van Unreel.
+- [Work / Portfolio](https://www.unreel.be/videoproducties): Overzicht van recente videoproductie cases en portfolio.
+- [Contact](https://www.unreel.be/contact): Contactgegevens en formulier voor projectaanvragen.
+- [Productiehuis Antwerpen](https://www.unreel.be/productiehuis-antwerpen): Locatiepagina over de videostudio in Antwerpen Nieuw-Zuid.
+- [Blog](https://www.unreel.be/blog): Video marketing blog met tips over videoproductie, videomarketing en employer branding.
+- [Privacy Policy](https://www.unreel.be/privacy): Privacybeleid conform GDPR.
+
+## Klanten
+
+Atlas Copco, Stad Hoogstraten, Pronails, Nutriphyt, BBDO Agency, Departement Cultuur Jeugd en Media, Juntoo, Foodbag, Dunlop, JBL, Express Medical, Gili Drinks
+
+## Social Media
+
+- Instagram: https://www.instagram.com/unreelantwerp/
+- LinkedIn: https://www.linkedin.com/company/14025766/
+- Facebook: https://www.facebook.com/unreelagency
+
+## Volledige content
+
+- [llms-full.txt](https://www.unreel.be/llms-full.txt): Volledige markdown content van alle pagina's op unreel.be.
